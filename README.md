@@ -4,7 +4,6 @@ I am Jala Aguirre, a software developer from the Philippines.
 
 My hands are busy learning the world, and creating something new from what I have learned. 
 
-I love to add colors to the digital world.
 
 <!--
 **JBAguirre/JBAguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
