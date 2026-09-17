@@ -41,11 +41,6 @@ My hands are busy learning the world, and creating something new from what I hav
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JBAguirre&show_icons=true&theme=radarthere)
-*(Don't forget to replace YOUR_GITHUB_USERNAME in the stats link above)*
 
 ## 📫 How to reach me
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jala-aguirre/)
